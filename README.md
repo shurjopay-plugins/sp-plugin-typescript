@@ -1,4 +1,4 @@
-# ![shurjoPay](https://shurjopay.com.bd/dev/images/shurjoPay.png) JavaScript plugin package
+# ![shurjoPay](https://shurjopay.com.bd/dev/images/shurjoPay.png) TypeScript plugin package
 
 ![Made With](https://badgen.net/badge/Made%20with/typescript)
 ![NPM](https://img.shields.io/npm/l/sp-plugin)
